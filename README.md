@@ -10,7 +10,8 @@ Skills
 - JavaScript
 - Wordpress
 - VS Code
--  React
+- React
+- Adobe PhotoShop, XD, Illustrator
 
 <!---
 siljesorland/siljesorland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
