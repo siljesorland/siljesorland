@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 📫 How to reach me siljesorland@gmail.com
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="25" height="25" />
+
 Skills
 - HTML
 - CSS
