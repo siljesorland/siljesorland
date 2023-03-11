@@ -13,6 +13,8 @@ Skills
 - React
 - Adobe PhotoShop, XD, Illustrator
 
+[My website](https://siljesorland.netlify.app/)
+
 [This is an external link to a style guide for the project](https://xd.adobe.com/view/83889c6d-3991-4938-a473-9ba93ebcccf9-d6db/)
 
 <!---
