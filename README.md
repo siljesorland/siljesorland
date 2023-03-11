@@ -13,7 +13,7 @@ Skills
 - React
 - Adobe PhotoShop, XD, Illustrator
 
-[My personal website]([https://xd.adobe.com/view/83889c6d-3991-4938-a473-9ba93ebcccf9-d6db/](https://siljesorland.netlify.app/)
+[My personal website](https://xd.adobe.com/view/83889c6d-3991-4938-a473-9ba93ebcccf9-d6db/](https://siljesorland.netlify.app/)
 
 <!---
 siljesorland/siljesorland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
